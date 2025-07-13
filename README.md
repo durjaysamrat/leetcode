@@ -11,6 +11,7 @@ I'm actively solving challenges based on the [NeetCode 150 Roadmap](https://neet
 
 - ✅ 100+ Java Solutions
 - 📚 NeetCode 150 DSA Roadmap Progress
+- - 🔥 Daily LeetCode Streak Maintenance
 - 🧩 Clean, readable, and efficient code
 - 🔍 Categorized by key data structures and algorithms:
   - Arrays & Hashing
@@ -33,6 +34,17 @@ I'm actively solving challenges based on the [NeetCode 150 Roadmap](https://neet
 
 ---
 
+## 📅 Daily Problem Solving Streak 🔥
+
+I consistently solve **LeetCode Daily Challenges** to stay sharp and push my boundaries every day.
+
+> 🏆 Maintaining a streak of daily DSA problem-solving since **May 2025**
+
+- Covers Easy, Medium & Hard problems
+- Mix of topics: Trees, DP, Graphs, Arrays, Greedy
+- Check [submission activity here »](https://leetcode.com/u/durjaysamrat/)
+
+---
 
 
 ## 🔥 Recent Activity Highlights
