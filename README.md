@@ -33,37 +33,7 @@ I'm actively solving challenges based on the [NeetCode 150 Roadmap](https://neet
 
 ---
 
-## 📂 Directory Structure
 
-.
-├── 0001-two-sum.java
-├── 0094-binary-tree-inorder-traversal.java
-├── 0238-product-of-array-except-self.java
-├── 0347-top-k-frequent-elements.java
-├── ...
-└── README.md
-
-yaml
-Copy
-Edit
-
-> File Format: `ProblemNumber-Title.java`  
-> Example: `0001-two-sum.java`
-
----
-
-## 📊 GitHub Stats
-
-![Durjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=durjaysamrat&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durjaysamrat&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=durjaysamrat&theme=onedark)
-
----
 
 ## 🔥 Recent Activity Highlights
 
